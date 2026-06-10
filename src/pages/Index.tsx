@@ -533,7 +533,7 @@ export default function Index() {
         <div className="mt-12 grid md:grid-cols-2 gap-6 max-w-2xl">
           {[
             { name: "Максимов Максим", phone: "+7 924 511 64 21", address: "ул. Лесная, 45" },
-            { name: "Кириченко Андрей", phone: "+7 924 511 64 21", address: "ул. Лесная, 45" },
+            { name: "Кириченко Андрей", phone: "+7 914 365 14 85", address: "ул. Лесная, 45" },
           ].map((contact) => (
             <div key={contact.name} className="p-6 border border-border/40" style={{ background: "hsl(var(--card))" }}>
               <div className="flex items-center gap-4 mb-5">
